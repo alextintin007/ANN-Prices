@@ -3,7 +3,9 @@
 123
 123
 <<<<<<< HEAD
+<<<<<<< HEAD
 Romina
+<<<<<<< HEAD
 =======
 este es un cambio
 >>>>>>> df30c425f77c23b8b3e66c554f005c116f6c6cfe
@@ -11,13 +13,18 @@ este es un cambio
 modificacion romina1
 =======
 
+HOLA AMIKOSSS
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 66febdbbb4fad2ab0532d53c697ab274744a0cf7
 <<<<<<< HEAD
 Jojy
 >>>>>>> 589edaf190d7d0789f8e5d171831882850b2e48f
 =======
 Jojy598
+<<<<<<< HEAD
 <<<<<<< HEAD
 colaborador
 =======
@@ -25,3 +32,30 @@ colaborador
 Cambio romina001
 Cambio javi598
 >>>>>>> main
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> 5f1389a0a855ddedde2e8a52bef7853da98f073e
+<<<<<<< HEAD
+Cambio romina003
+=======
+Romina
+<<<<<<< HEAD
+cambio romina nuevo
+>>>>>>> romina
+=======
+Cambio romina001
+>>>>>>> 66febdbbb4fad2ab0532d53c697ab274744a0cf7
+=======
+>>>>>>> 5f1389a0a855ddedde2e8a52bef7853da98f073e
+Cambio romina001
+>>>>>>> 66febdbbb4fad2ab0532d53c697ab274744a0cf7
+>>>>>>> 316d2d98441bc2ac899ddee7c6dbc351f71b254c
+=======
+cambio romina2
+>>>>>>> romina
+=======
+cambio romina2
+>>>>>>> romina
+>>>>>>> 59da6ad9be1ce00c9ca57dd23689bfe78da76137
