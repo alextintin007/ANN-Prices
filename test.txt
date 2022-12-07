@@ -7,8 +7,21 @@ Romina
 =======
 este es un cambio
 >>>>>>> df30c425f77c23b8b3e66c554f005c116f6c6cfe
+<<<<<<< HEAD
+modificacion romina1
+=======
 
 
 
+<<<<<<< HEAD
+Jojy
+>>>>>>> 589edaf190d7d0789f8e5d171831882850b2e48f
+=======
 Jojy598
+<<<<<<< HEAD
 colaborador
+=======
+>>>>>>> 5f1389a0a855ddedde2e8a52bef7853da98f073e
+Cambio romina001
+Cambio javi598
+>>>>>>> main
