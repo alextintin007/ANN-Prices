@@ -32,6 +32,7 @@ Jojy598
 Cambio romina003
 =======
 Romina
+<<<<<<< HEAD
 cambio romina nuevo
 >>>>>>> romina
 =======
@@ -42,3 +43,6 @@ Cambio romina001
 Cambio romina001
 >>>>>>> 66febdbbb4fad2ab0532d53c697ab274744a0cf7
 >>>>>>> 316d2d98441bc2ac899ddee7c6dbc351f71b254c
+=======
+cambio romina2
+>>>>>>> romina
