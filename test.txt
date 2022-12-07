@@ -7,4 +7,11 @@ Romina
 =======
 este es un cambio
 >>>>>>> df30c425f77c23b8b3e66c554f005c116f6c6cfe
+<<<<<<< HEAD
 modificacion romina1
+=======
+
+
+
+Jojy
+>>>>>>> 589edaf190d7d0789f8e5d171831882850b2e48f
