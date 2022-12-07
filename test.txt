@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 Romina
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 este es un cambio
 >>>>>>> df30c425f77c23b8b3e66c554f005c116f6c6cfe
@@ -44,6 +45,9 @@ Cambio romina001
 Cambio romina001
 >>>>>>> 66febdbbb4fad2ab0532d53c697ab274744a0cf7
 >>>>>>> 316d2d98441bc2ac899ddee7c6dbc351f71b254c
+=======
+cambio romina2
+>>>>>>> romina
 =======
 cambio romina2
 >>>>>>> romina
