@@ -2,4 +2,8 @@
 123
 123
 123
+<<<<<<< HEAD
 Romina
+=======
+este es un cambio
+>>>>>>> df30c425f77c23b8b3e66c554f005c116f6c6cfe
